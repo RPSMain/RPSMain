@@ -10,3 +10,5 @@ A YouTuber And Gamer :)
 
 ![Bigg Language Boyos](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentRPS&theme=radical)
 
+![More Stta](https://activity-graph.herokuapp.com/graph?username=VincentRPS&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
