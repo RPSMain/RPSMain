@@ -12,3 +12,5 @@ A YouTuber And Gamer :)
 
 ![More Stta](https://activity-graph.herokuapp.com/graph?username=VincentRPS&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
+![Fortnite Bruh Moment](https://github-readme-streak-stats.herokuapp.com/?user=VetlixDev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
+
