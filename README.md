@@ -2,7 +2,7 @@
 
 Hey i'm VincentRPS
 
-A YouTuber And Gamer :)
+A YouTuber And Gamer ;)
 # Stats
 
 ![Commit Boyos :D](https://github-readme-stats.vercel.app/api?username=VincentRPS&count_private=true&theme=radical)
