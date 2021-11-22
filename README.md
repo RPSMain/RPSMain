@@ -3,6 +3,17 @@
 Hey i'm VincentRPS
 
 A YouTuber And Gamer :)
+
+# Stuff
+
+i am a avid user of nextcord, pycord and disnake
+
+i also contributed to all of the project's and i am a helper on nextcord
+
+[nextcord](https://github.com/nextcord)
+[pycord](https://github.com/pycord-development)
+[disnake](https://github.com/DisnakeDev)
+
 # Stats
 
 ![Commit Boyos :D](https://github-readme-stats.vercel.app/api?username=VincentRPS&count_private=true&theme=radical)
