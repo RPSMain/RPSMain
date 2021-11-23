@@ -1,6 +1,6 @@
-# VincentRPS
+# RPS
 
-Hey i'm VincentRPS
+Hey i'm RPS
 
 A YouTuber And Gamer :)
 
